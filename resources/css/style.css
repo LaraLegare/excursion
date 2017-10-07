@@ -14,3 +14,24 @@ h4{
   font-size: 16px;
   color: aquamarine;
 }
+
+a{
+  color: aquamarine;
+}
+
+#remember{
+  color: Gray;
+  font-size: 21px;
+}
+
+#white{
+  font-size: 42px;
+  color: white;
+  font-weight: 300;
+}
+
+#final{
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
